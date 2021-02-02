@@ -21,7 +21,7 @@ buttons:
 # your projects
 projects:
 - name: CariedAway NYC
-  logo: images/projects/icon.png
+  logo: images/nyu.png
   role: Ryan Ruff, Richard Niederman
   timeline: "February 2018 - Present"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -30,7 +30,7 @@ projects:
   tags: ["research"]
 
 - name: EpiMouth
-  logo: images/projects/icon.png
+  logo: images/nyu.png
   role: Ryan Ruff
   timeline: "Jun 2020 - Present"
   repo: https://github.com/ryanruff/EpiMouth
@@ -38,15 +38,16 @@ projects:
   summary: An Open Source simulation app built in R (Shiny) to produce mouth models used for epidemiologic research.
   tags: ["professional", "academic"]
 
-- name: (PAPER) Oral health and educational performance - A systematic review
+- name: Oral health and educational performance - A systematic review
+  logo: images/paper.png
   role: Ryan Ruff
   timeline: "November 2018"
   url: "https://pubmed.ncbi.nlm.nih.gov/30473200/"
-  summary: A systematic review and meta-analysis to provide a summary estimate of the association between oral health and academic performance. Results indicate caries or tooth pain had a negative association with academic achievement and school absenteeism
+  summary: Published article - A systematic review and meta-analysis to provide a summary estimate of the association between oral health and academic performance. Results indicate caries or tooth pain had a negative association with academic achievement and school absenteeism
   tags: ["research"]
 
 - name: CariedAway NH
-  logo: images/projects/icon.png
+  logo: images/nyu.png
   role: Richard Niederman, Ryan Ruff
   timeline: "August 2017 - Present"
   #repo: https://github.com/kelseyhightower/nocode
@@ -55,7 +56,7 @@ projects:
   tags: ["research"]
 
 - name: Economic evaluation of SCPPs
-  logo: images/projects/icon.png
+  logo: images/nyu.png
   role: Shulamite Huang
   timeline: "August 2018 - Present"
   #repo: https://github.com/hossainemruz/toha

@@ -9,7 +9,7 @@ section:
 
 # Your experiences
 experiences:
-- designation: OPEN
+- designation: Open
   company:
     name: Post-doctoral associate
     url: ""
@@ -23,13 +23,13 @@ experiences:
   - Conduct statistical analyses
   - Write scientific papers
   
-- designation: CLOSED
+- designation: Open
   company:
     name: Student Research Volunteers
     url: ""
     location: New York, NY
     # company overview
-    overview: Current undergraduate or graduate students interested in volunteering at the Oral Health Equity and Action Lab may submit a cover letter and resume. This is an unpaid position.
+    overview: Current NYU undergraduate or graduate students interested in volunteering at OHEAL may submit a cover letter and resume. This is an unpaid position.
   start: 
   # don't provide end date if you are currently working there. It will be replaced by "Present"
   # end: Dec 2020
