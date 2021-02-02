@@ -1,0 +1,31 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Ryan Richard Ruff, MPH, PhD
+  icon: "images/skills/nyu.png"
+  summary: "Associate Professor, Department of Epidemiology @ NYU Dentistry and associated professor @ NYU Public Health. Statistical epidemiologist with research interests in oral health and child development."
+
+- name: Richard Niederman, DMD
+  icon: "images/skills/nyu.png"
+  summary: "Professor and Chair, Department of Epidemiology @ NYU Dentistry. Research interests include caries prevention and equitable oral healthcare."
+
+- name: Shulamite Huang, PhD
+  icon: "images/skills/nyu.png"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+- name: Stefan Listl, MD, PhD
+  icon: "images/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+
+- name: Mal Janal, PhD
+  icon: "images/skills/nyu.png"
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."

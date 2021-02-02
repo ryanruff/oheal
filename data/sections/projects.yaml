@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Projects
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Research
+  filter: "research"
+- name: Curricula
+  filter: "academic"
+- name: Policy
+  filter: "policy"
+
+# your projects
+projects:
+- name: CariedAway NYC
+  logo: images/projects/icon.png
+  role: Ryan Ruff, Richard Niederman
+  timeline: "February 2018 - Present"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://clinicaltrials.gov/ct2/show/NCT03442309"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Cluster randomized pragmatic trial testing the non-inferiority of silver diamine fluoride versus traditional sealants and ITRs in the prevention and arrest of dental caries.
+  tags: ["research"]
+
+- name: EpiMouth
+  logo: images/projects/icon.png
+  role: Ryan Ruff
+  timeline: "Jun 2020 - Present"
+  repo: https://github.com/ryanruff/EpiMouth
+  #url: ""
+  summary: An Open Source simulation app built in R (Shiny) to produce mouth models used for epidemiologic research.
+  tags: ["professional", "academic"]
+
+- name: (PAPER) Oral health and educational performance - A systematic review
+  role: Ryan Ruff
+  timeline: "November 2018"
+  url: "https://pubmed.ncbi.nlm.nih.gov/30473200/"
+  summary: A systematic review and meta-analysis to provide a summary estimate of the association between oral health and academic performance. Results indicate caries or tooth pain had a negative association with academic achievement and school absenteeism
+  tags: ["research"]
+
+- name: CariedAway NH
+  logo: images/projects/icon.png
+  role: Richard Niederman, Ryan Ruff
+  timeline: "August 2017 - Present"
+  #repo: https://github.com/kelseyhightower/nocode
+  url: "https://clinicaltrials.gov/ct2/show/NCT03448107"
+  summary: Cluster randomized pragmatic trial testing the non-inferiority of silver diamine fluoride versus traditional sealants and ITRs in the prevention and arrest of dental caries.
+  tags: ["research"]
+
+- name: Economic evaluation of SCPPs
+  logo: images/projects/icon.png
+  role: Shulamite Huang
+  timeline: "August 2018 - Present"
+  #repo: https://github.com/hossainemruz/toha
+  summary: This project addresses the need to conduct robust economic evaluations of school-based caries prevention programs (SCPPs) to support decision-making by public health officials, policymakers, and other stakeholders to improve oral health equity.
+  tags: ["research"]

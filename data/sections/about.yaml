@@ -1,0 +1,76 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Oral Health Epidemiology & Analysis Lab 
+# your company information
+company:
+  name: NYU
+  url: "https://www.nyu.edu"
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Housed in the Department of Epidemiology & Health Promotion at the New York University College of Dentistry, the Oral Health Epidemiology and Analysis Lab (OHEAL) conducts scientific research and policy development in support of equitable oral healthcare across the world. Through the lenses of social justice and patient centeredness, the OHEAL explores the determinants of oral health inequality and the testable approaches to mitigate it. The lab comprises a multidisciplinary group of faculty and students across several institutions supporting an innovative methodological approach to dental research, including epidemiologists, clinicians, economists, biostatisticians and health policy/health services researchers. '
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "oheal@nyu.edu"
+
+#- name: Github
+# icon: "fab fa-github"
+#  url: "https://www.github.com/example"
+
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Oral Health
+  percentage: 85
+  color: blue
+- name: Equity & Access
+  percentage: 85
+  color: yellow
+- name: Patient Focused
+  percentage: 85
+  color: pink
+- name: Research
+  percentage: 85
+  color: green
+- name: Clinical Training
+  percentage: 85
+  color: sky
+- name: Policy
+  percentage: 85
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

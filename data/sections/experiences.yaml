@@ -1,0 +1,60 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- designation: OPEN
+  company:
+    name: Post-doctoral associate
+    url: ""
+    location: New York, NY
+    overview: OHEAL is accepting applications for a postdoctoral associate under Dr. Ryan Ruff. The postdoc will join a grant-funded study that investigates the role of the oral microbiome on treatment nonresponse to SDF and applies machine learning to predict subject responsiveness. Interested applications must have a strong background in epidemiology and biostatistics, no oral health training is required. Contact ryan.ruff@nyu.edu for further information and to submit an application.
+  start: January 2021
+  end: TBD
+  responsibilities:
+  - Collect data, manage SOP and MOP
+  - Analyze oral microbiome and clinical data
+  - Conduct statistical analyses
+  - Write scientific papers
+  
+- designation: CLOSED
+  company:
+    name: Student Research Volunteers
+    url: ""
+    location: New York, NY
+    # company overview
+    overview: Current undergraduate or graduate students interested in volunteering at the Oral Health Equity and Action Lab may submit a cover letter and resume. This is an unpaid position.
+  start: 
+  # don't provide end date if you are currently working there. It will be replaced by "Present"
+  # end: Dec 2020
+  # give some points about what was your responsibilities at the company.
+  responsibilities:
+   - Conduct literature reviews and synthesis in support of active research projects
+   - Participate, where supported, in data analysis
+   - Assist in project management and development
+   
+ # - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+ # - My another responsibility.
+ # - My more responsibilities.
+
+
+
+
+#- designation: Intern
+#  company:
+#    name: Intern Counting Company (ICC).
+#    url: "https://www.intern.com"
+#    location: Intern Land
+#    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+#  start: Jun 2015
+#  end: Jan 2016
+#  responsibilities:
+#  - Count lost of interns.
+#  - Count more interns.
+#  - Count me as an intern.
